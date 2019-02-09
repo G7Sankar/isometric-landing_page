@@ -7,7 +7,7 @@ Techonologies
 	React.js
 	Animate.js
 	Bootstrap
-	GIt
+	GIT
 	
 
 StyleGuide
