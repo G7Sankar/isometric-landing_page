@@ -1,0 +1,60 @@
+Techonologies
+	HTMl
+	CSS
+	SCSS
+	PUG
+	JavaScript
+	React.js
+	Animate.js
+	Bootstrap
+	
+
+StyleGuide
+
+	Wireframes
+	Ilustration
+	Fonts
+		-- Nimbus Sans -- H1
+		Helvetica-- H2
+		Roboto -- P
+		Nimbus Sans-- Button-- Nav
+	Colors
+		-- --
+	Icons
+	Mock Up
+	GSAP Animation
+	Responsive design
+
+Landing Page Design- 
+
+	Dhauli Isometric
+	City Isometric
+	Custom Web Components
+		Logo
+		Button
+
+Basic Navigation
+	
+	Smart City Bhubaneswar (Logo)
+
+	Places To Visit
+	Restaurants
+	Events & News
+	Services
+		Emergency Services
+		Jobs
+		Business Oportunities
+		Serch Properties
+		Book a Cab
+		Local Guides
+		Get a Host
+	City Map
+	Sign In
+
+Heading
+	Welcome To Bhubaneswar
+Paragraph
+
+Animated Button
+	Explore
+
